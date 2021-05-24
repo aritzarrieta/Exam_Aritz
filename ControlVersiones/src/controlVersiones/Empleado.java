@@ -11,6 +11,7 @@ public class Empleado {
 	private String nombre;
 	private String apellidos;
 	private double salario; 
+	
 
 /**
  * 
