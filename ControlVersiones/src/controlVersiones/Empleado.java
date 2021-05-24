@@ -8,7 +8,7 @@ package controlVersiones;
  */
 public class Empleado {
 	
-	private String nombre;
+	private String nombreJR;
 	private String apellidos;
 	private double salario; 
 
@@ -47,7 +47,7 @@ public void setSalario(double salario) {
 }
 /**
  * 
- * @param subida el metodo de subirsalario es para añadir al subsalario una subida
+ * @param subida el metodo de subirsalario es para aÃ±adir al subsalario una subida
  */
 public void subirsalario (double subida) {
 	salario=salario+subida;
